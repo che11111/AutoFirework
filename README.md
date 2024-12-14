@@ -2,7 +2,7 @@
 
 # AutoFirework
 
-<img src="AutoFirework.png" width="320" height="300" alt="image">
+<img src="AutoFirework.png" width="310" height="300" alt="image">
 
 ## Plugin Functions
 
