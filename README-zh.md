@@ -21,26 +21,25 @@
 
 ## 插件信息
 
-**插件名字：**   Fireworklauncher
 
-**已测试版本： **  1.20.1 
+已测试版本：   1.20.1 
 
-**服务端： ** Spigot、Paper等
+服务端：  Spigot、Paper等
 
-**指令简写：**  / fl
-
+指令简写：  /af
 
 
-## 茶碱指令
+
+## 插件指令
 
 在游戏中输入：（仅op有权限）
 
 1、创建烟花释放点的指令
 
 ```yaml
-/fl create <烟花筒名字> <发射间隔的tick数>
+/af create <烟花筒名字> <发射间隔的tick数>
 #举例
-#/fl create test 100
+#/af create test 100
 ```
 
 就可以在你的脚下生成一个 ”发射器“（虚拟的）
@@ -52,16 +51,16 @@
 2、删除烟花释放点的指令
 
 ```yaml
-/fl delete <烟花筒名字>
+/af delete <烟花筒名字>
 #举例
-#/fl delete test
+#/af delete test
 ```
 
 即可删除这个烟花筒
 
 
 
-### 四、**配置文件：**
+## 配置文件
 
 data.yml
 
