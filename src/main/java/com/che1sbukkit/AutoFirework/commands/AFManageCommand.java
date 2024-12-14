@@ -21,6 +21,8 @@ public class AFManageCommand extends Command {
                 ChatColor.GOLD + "/af" + ChatColor.WHITE + " delete <name>");
     }
 
+
+
     @Override
     public boolean execute(CommandSender commandSender, String s, String[] strings) {
         // 判断命令的发送者是否为玩家
