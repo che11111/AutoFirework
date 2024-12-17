@@ -69,7 +69,7 @@ data.yml
 fireworks:
   #烟花名称
   firework1:
-    #发射位置 (坐标，worldname:x:y:z:yaw:pitch)
+    #发射位置 (发射坐标，worldname:x:y:z:yaw:pitch)
     location: world:0:0:0:0:0
     #发射高度（发射高度：烟花的发射2秒后爆炸）
     height: 2
